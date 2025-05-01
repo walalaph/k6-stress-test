@@ -1,0 +1,7 @@
+{
+  "VUS": [1, 3],
+  "DURATION": "1s",
+  "WAIT_BETWEEN_STEPS_SEC": "3s",
+  "HTML_REPORT": true,
+  "APIS": ["test-get", "test-get2"]
+}

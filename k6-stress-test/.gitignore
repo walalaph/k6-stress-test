@@ -1,0 +1,39 @@
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Test binary, built with `go test -c`
+*.test
+
+# Dependency directories
+vendor/
+
+# Logs
+logs
+*.log
+
+# Go workspace file
+go.work
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Output of the go coverage tool, specifically when used with LiteIDE
+*.out
+
+# Directories
+.DS_Store
+
+.prettierrc.yaml
+reports
+*.html
